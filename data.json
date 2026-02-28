@@ -1,0 +1,2800 @@
+{
+  "daily": [
+    {
+      "date": "2025-01-01",
+      "revenue": 82515,
+      "discount": 1725,
+      "receipts": 66
+    },
+    {
+      "date": "2025-01-02",
+      "revenue": 11286,
+      "discount": 584,
+      "receipts": 12
+    },
+    {
+      "date": "2025-01-04",
+      "revenue": 40350,
+      "discount": 1060,
+      "receipts": 32
+    },
+    {
+      "date": "2025-01-05",
+      "revenue": 57827,
+      "discount": 2273,
+      "receipts": 61
+    },
+    {
+      "date": "2025-01-06",
+      "revenue": 20656,
+      "discount": 664,
+      "receipts": 28
+    },
+    {
+      "date": "2025-01-07",
+      "revenue": 15790,
+      "discount": 380,
+      "receipts": 17
+    },
+    {
+      "date": "2025-01-09",
+      "revenue": 14382,
+      "discount": 1308,
+      "receipts": 18
+    },
+    {
+      "date": "2025-01-10",
+      "revenue": 13002,
+      "discount": 628,
+      "receipts": 13
+    },
+    {
+      "date": "2025-01-11",
+      "revenue": 26566,
+      "discount": 974,
+      "receipts": 30
+    },
+    {
+      "date": "2025-01-12",
+      "revenue": 56222,
+      "discount": 1878,
+      "receipts": 56
+    },
+    {
+      "date": "2025-01-13",
+      "revenue": 18450,
+      "discount": 570,
+      "receipts": 19
+    },
+    {
+      "date": "2025-01-15",
+      "revenue": 35222,
+      "discount": 1398,
+      "receipts": 32
+    },
+    {
+      "date": "2025-01-17",
+      "revenue": 23815,
+      "discount": 3335,
+      "receipts": 19
+    },
+    {
+      "date": "2025-01-18",
+      "revenue": 34068,
+      "discount": 1272,
+      "receipts": 39
+    },
+    {
+      "date": "2025-01-19",
+      "revenue": 73248,
+      "discount": 1512,
+      "receipts": 63
+    },
+    {
+      "date": "2025-01-20",
+      "revenue": 27083,
+      "discount": 1047,
+      "receipts": 24
+    },
+    {
+      "date": "2025-01-22",
+      "revenue": 14652,
+      "discount": 848,
+      "receipts": 20
+    },
+    {
+      "date": "2025-01-24",
+      "revenue": 24788,
+      "discount": 972,
+      "receipts": 29
+    },
+    {
+      "date": "2025-01-25",
+      "revenue": 55808,
+      "discount": 4086,
+      "receipts": 46
+    },
+    {
+      "date": "2025-01-26",
+      "revenue": 72350,
+      "discount": 1680,
+      "receipts": 68
+    },
+    {
+      "date": "2025-01-27",
+      "revenue": 20625,
+      "discount": 605,
+      "receipts": 26
+    },
+    {
+      "date": "2025-02-01",
+      "revenue": 30440,
+      "discount": 1130,
+      "receipts": 31
+    },
+    {
+      "date": "2025-02-02",
+      "revenue": 62669,
+      "discount": 2251,
+      "receipts": 68
+    },
+    {
+      "date": "2025-02-03",
+      "revenue": 11420,
+      "discount": 580,
+      "receipts": 10
+    },
+    {
+      "date": "2025-02-04",
+      "revenue": 17270,
+      "discount": 940,
+      "receipts": 14
+    },
+    {
+      "date": "2025-02-05",
+      "revenue": 17318,
+      "discount": 812,
+      "receipts": 18
+    },
+    {
+      "date": "2025-02-06",
+      "revenue": 21547,
+      "discount": 693,
+      "receipts": 23
+    },
+    {
+      "date": "2025-02-08",
+      "revenue": 30219,
+      "discount": 1211,
+      "receipts": 33
+    },
+    {
+      "date": "2025-02-09",
+      "revenue": 67401,
+      "discount": 3669,
+      "receipts": 58
+    },
+    {
+      "date": "2025-02-10",
+      "revenue": 14620,
+      "discount": 1000,
+      "receipts": 17
+    },
+    {
+      "date": "2025-02-12",
+      "revenue": 31180,
+      "discount": 770,
+      "receipts": 20
+    },
+    {
+      "date": "2025-02-13",
+      "revenue": 17644,
+      "discount": 956,
+      "receipts": 17
+    },
+    {
+      "date": "2025-02-14",
+      "revenue": 15214,
+      "discount": 616,
+      "receipts": 18
+    },
+    {
+      "date": "2025-02-15",
+      "revenue": 56259,
+      "discount": 1390,
+      "receipts": 58
+    },
+    {
+      "date": "2025-02-16",
+      "revenue": 79602,
+      "discount": 2548,
+      "receipts": 88
+    },
+    {
+      "date": "2025-02-17",
+      "revenue": 29031,
+      "discount": 849,
+      "receipts": 22
+    },
+    {
+      "date": "2025-02-18",
+      "revenue": 24660,
+      "discount": 1610,
+      "receipts": 32
+    },
+    {
+      "date": "2025-02-19",
+      "revenue": 26090,
+      "discount": 460,
+      "receipts": 21
+    },
+    {
+      "date": "2025-02-20",
+      "revenue": 14825,
+      "discount": 835,
+      "receipts": 18
+    },
+    {
+      "date": "2025-02-22",
+      "revenue": 41936,
+      "discount": 844,
+      "receipts": 34
+    },
+    {
+      "date": "2025-02-23",
+      "revenue": 36333,
+      "discount": 1287,
+      "receipts": 33
+    },
+    {
+      "date": "2025-02-24",
+      "revenue": 27776,
+      "discount": 1204,
+      "receipts": 34
+    },
+    {
+      "date": "2025-02-26",
+      "revenue": 25262,
+      "discount": 2868,
+      "receipts": 30
+    },
+    {
+      "date": "2025-02-28",
+      "revenue": 51396,
+      "discount": 1254,
+      "receipts": 46
+    },
+    {
+      "date": "2025-03-01",
+      "revenue": 61411,
+      "discount": 1829,
+      "receipts": 52
+    },
+    {
+      "date": "2025-03-02",
+      "revenue": 79689,
+      "discount": 2451,
+      "receipts": 90
+    },
+    {
+      "date": "2025-03-03",
+      "revenue": 22167,
+      "discount": 1473,
+      "receipts": 27
+    },
+    {
+      "date": "2025-03-04",
+      "revenue": 15019,
+      "discount": 741,
+      "receipts": 28
+    },
+    {
+      "date": "2025-03-05",
+      "revenue": 20030,
+      "discount": 700,
+      "receipts": 22
+    },
+    {
+      "date": "2025-03-07",
+      "revenue": 15327,
+      "discount": 873,
+      "receipts": 15
+    },
+    {
+      "date": "2025-03-08",
+      "revenue": 41430,
+      "discount": 1170,
+      "receipts": 40
+    },
+    {
+      "date": "2025-03-09",
+      "revenue": 58003,
+      "discount": 1967,
+      "receipts": 62
+    },
+    {
+      "date": "2025-03-11",
+      "revenue": 14634,
+      "discount": 636,
+      "receipts": 19
+    },
+    {
+      "date": "2025-03-12",
+      "revenue": 31810,
+      "discount": 830,
+      "receipts": 29
+    },
+    {
+      "date": "2025-03-13",
+      "revenue": 42420,
+      "discount": 2340,
+      "receipts": 38
+    },
+    {
+      "date": "2025-03-15",
+      "revenue": 64098,
+      "discount": 2592,
+      "receipts": 46
+    },
+    {
+      "date": "2025-03-16",
+      "revenue": 63672,
+      "discount": 638,
+      "receipts": 39
+    },
+    {
+      "date": "2025-03-17",
+      "revenue": 68862,
+      "discount": 2358,
+      "receipts": 53
+    },
+    {
+      "date": "2025-03-19",
+      "revenue": 50538,
+      "discount": 1762,
+      "receipts": 44
+    },
+    {
+      "date": "2025-03-20",
+      "revenue": 19075,
+      "discount": 605,
+      "receipts": 21
+    },
+    {
+      "date": "2025-03-22",
+      "revenue": 57831,
+      "discount": 1609,
+      "receipts": 50
+    },
+    {
+      "date": "2025-03-23",
+      "revenue": 74106,
+      "discount": 2184,
+      "receipts": 59
+    },
+    {
+      "date": "2025-03-24",
+      "revenue": 49618,
+      "discount": 952,
+      "receipts": 50
+    },
+    {
+      "date": "2025-03-26",
+      "revenue": 32802,
+      "discount": 1678,
+      "receipts": 44
+    },
+    {
+      "date": "2025-03-28",
+      "revenue": 29025,
+      "discount": 885,
+      "receipts": 28
+    },
+    {
+      "date": "2025-03-29",
+      "revenue": 56501,
+      "discount": 1709,
+      "receipts": 36
+    },
+    {
+      "date": "2025-03-30",
+      "revenue": 48643,
+      "discount": 1177,
+      "receipts": 58
+    },
+    {
+      "date": "2025-03-31",
+      "revenue": 27989,
+      "discount": 1571,
+      "receipts": 34
+    },
+    {
+      "date": "2025-04-02",
+      "revenue": 50732,
+      "discount": 1128,
+      "receipts": 49
+    },
+    {
+      "date": "2025-04-04",
+      "revenue": 37654,
+      "discount": 1096,
+      "receipts": 35
+    },
+    {
+      "date": "2025-04-05",
+      "revenue": 50602,
+      "discount": 948,
+      "receipts": 45
+    },
+    {
+      "date": "2025-04-06",
+      "revenue": 72707,
+      "discount": 3343,
+      "receipts": 63
+    },
+    {
+      "date": "2025-04-07",
+      "revenue": 12010,
+      "discount": 1120,
+      "receipts": 13
+    },
+    {
+      "date": "2025-04-09",
+      "revenue": 21497,
+      "discount": 883,
+      "receipts": 25
+    },
+    {
+      "date": "2025-04-10",
+      "revenue": 22879,
+      "discount": 971,
+      "receipts": 21
+    },
+    {
+      "date": "2025-04-11",
+      "revenue": 32870,
+      "discount": 800,
+      "receipts": 30
+    },
+    {
+      "date": "2025-04-12",
+      "revenue": 60057,
+      "discount": 553,
+      "receipts": 43
+    },
+    {
+      "date": "2025-04-13",
+      "revenue": 32247,
+      "discount": 1293,
+      "receipts": 34
+    },
+    {
+      "date": "2025-04-14",
+      "revenue": 22390,
+      "discount": 990,
+      "receipts": 16
+    },
+    {
+      "date": "2025-04-15",
+      "revenue": 24689,
+      "discount": 631,
+      "receipts": 22
+    },
+    {
+      "date": "2025-04-16",
+      "revenue": 42910,
+      "discount": 1870,
+      "receipts": 47
+    },
+    {
+      "date": "2025-04-18",
+      "revenue": 30474,
+      "discount": 1396,
+      "receipts": 28
+    },
+    {
+      "date": "2025-04-19",
+      "revenue": 60024,
+      "discount": 3206,
+      "receipts": 47
+    },
+    {
+      "date": "2025-04-20",
+      "revenue": 89730,
+      "discount": 2520,
+      "receipts": 87
+    },
+    {
+      "date": "2025-04-21",
+      "revenue": 14960,
+      "discount": 600,
+      "receipts": 16
+    },
+    {
+      "date": "2025-04-23",
+      "revenue": 15187,
+      "discount": 1113,
+      "receipts": 21
+    },
+    {
+      "date": "2025-04-24",
+      "revenue": 63840,
+      "discount": 1800,
+      "receipts": 53
+    },
+    {
+      "date": "2025-04-26",
+      "revenue": 74929,
+      "discount": 2801,
+      "receipts": 63
+    },
+    {
+      "date": "2025-04-27",
+      "revenue": 84222,
+      "discount": 1838,
+      "receipts": 80
+    },
+    {
+      "date": "2025-04-29",
+      "revenue": 37942,
+      "discount": 4268,
+      "receipts": 25
+    },
+    {
+      "date": "2025-04-30",
+      "revenue": 19651,
+      "discount": 1269,
+      "receipts": 20
+    },
+    {
+      "date": "2025-05-01",
+      "revenue": 40307,
+      "discount": 1053,
+      "receipts": 39
+    },
+    {
+      "date": "2025-05-02",
+      "revenue": 33319,
+      "discount": 3051,
+      "receipts": 28
+    },
+    {
+      "date": "2025-05-03",
+      "revenue": 40982,
+      "discount": 1278,
+      "receipts": 41
+    },
+    {
+      "date": "2025-05-04",
+      "revenue": 84023,
+      "discount": 1997,
+      "receipts": 77
+    },
+    {
+      "date": "2025-05-06",
+      "revenue": 13261,
+      "discount": 729,
+      "receipts": 17
+    },
+    {
+      "date": "2025-05-07",
+      "revenue": 30416,
+      "discount": 1344,
+      "receipts": 40
+    },
+    {
+      "date": "2025-05-09",
+      "revenue": 11607,
+      "discount": 1113,
+      "receipts": 14
+    },
+    {
+      "date": "2025-05-10",
+      "revenue": 59141,
+      "discount": 1919,
+      "receipts": 55
+    },
+    {
+      "date": "2025-05-11",
+      "revenue": 44887,
+      "discount": 2253,
+      "receipts": 43
+    },
+    {
+      "date": "2025-05-12",
+      "revenue": 44714,
+      "discount": 1426,
+      "receipts": 45
+    },
+    {
+      "date": "2025-05-14",
+      "revenue": 28190,
+      "discount": 1170,
+      "receipts": 17
+    },
+    {
+      "date": "2025-05-15",
+      "revenue": 44460,
+      "discount": 1360,
+      "receipts": 40
+    },
+    {
+      "date": "2025-05-17",
+      "revenue": 38153,
+      "discount": 717,
+      "receipts": 41
+    },
+    {
+      "date": "2025-05-18",
+      "revenue": 80878,
+      "discount": 2312,
+      "receipts": 72
+    },
+    {
+      "date": "2025-05-19",
+      "revenue": 14312,
+      "discount": 658,
+      "receipts": 21
+    },
+    {
+      "date": "2025-05-21",
+      "revenue": 52791,
+      "discount": 2319,
+      "receipts": 45
+    },
+    {
+      "date": "2025-05-23",
+      "revenue": 26664,
+      "discount": 1066,
+      "receipts": 25
+    },
+    {
+      "date": "2025-05-24",
+      "revenue": 42722,
+      "discount": 3008,
+      "receipts": 32
+    },
+    {
+      "date": "2025-05-25",
+      "revenue": 63780,
+      "discount": 960,
+      "receipts": 41
+    },
+    {
+      "date": "2025-05-26",
+      "revenue": 30409,
+      "discount": 731,
+      "receipts": 26
+    },
+    {
+      "date": "2025-05-27",
+      "revenue": 34281,
+      "discount": 1029,
+      "receipts": 32
+    },
+    {
+      "date": "2025-05-28",
+      "revenue": 19508,
+      "discount": 1652,
+      "receipts": 18
+    },
+    {
+      "date": "2025-05-30",
+      "revenue": 29050,
+      "discount": 1310,
+      "receipts": 28
+    },
+    {
+      "date": "2025-05-31",
+      "revenue": 47400,
+      "discount": 1270,
+      "receipts": 50
+    },
+    {
+      "date": "2025-06-01",
+      "revenue": 59540,
+      "discount": 870,
+      "receipts": 62
+    },
+    {
+      "date": "2025-06-02",
+      "revenue": 11289,
+      "discount": 761,
+      "receipts": 15
+    },
+    {
+      "date": "2025-06-03",
+      "revenue": 9024,
+      "discount": 686,
+      "receipts": 14
+    },
+    {
+      "date": "2025-06-04",
+      "revenue": 17399,
+      "discount": 711,
+      "receipts": 24
+    },
+    {
+      "date": "2025-06-05",
+      "revenue": 19285,
+      "discount": 1185,
+      "receipts": 21
+    },
+    {
+      "date": "2025-06-07",
+      "revenue": 42047,
+      "discount": 953,
+      "receipts": 37
+    },
+    {
+      "date": "2025-06-08",
+      "revenue": 92851,
+      "discount": 1709,
+      "receipts": 74
+    },
+    {
+      "date": "2025-06-10",
+      "revenue": 13080,
+      "discount": 0,
+      "receipts": 7
+    },
+    {
+      "date": "2025-06-11",
+      "revenue": 34096,
+      "discount": 1504,
+      "receipts": 37
+    },
+    {
+      "date": "2025-06-13",
+      "revenue": 8660,
+      "discount": 630,
+      "receipts": 9
+    },
+    {
+      "date": "2025-06-14",
+      "revenue": 37100,
+      "discount": 1200,
+      "receipts": 33
+    },
+    {
+      "date": "2025-06-15",
+      "revenue": 46230,
+      "discount": 1050,
+      "receipts": 32
+    },
+    {
+      "date": "2025-06-16",
+      "revenue": 31601,
+      "discount": 1099,
+      "receipts": 38
+    },
+    {
+      "date": "2025-06-17",
+      "revenue": 35713,
+      "discount": 4657,
+      "receipts": 32
+    },
+    {
+      "date": "2025-06-18",
+      "revenue": 11597,
+      "discount": 363,
+      "receipts": 11
+    },
+    {
+      "date": "2025-06-20",
+      "revenue": 20054,
+      "discount": 1136,
+      "receipts": 24
+    },
+    {
+      "date": "2025-06-21",
+      "revenue": 31179,
+      "discount": 871,
+      "receipts": 30
+    },
+    {
+      "date": "2025-06-22",
+      "revenue": 60540,
+      "discount": 1610,
+      "receipts": 67
+    },
+    {
+      "date": "2025-06-23",
+      "revenue": 18132,
+      "discount": 958,
+      "receipts": 20
+    },
+    {
+      "date": "2025-06-24",
+      "revenue": 17236,
+      "discount": 264,
+      "receipts": 15
+    },
+    {
+      "date": "2025-06-25",
+      "revenue": 13825,
+      "discount": 675,
+      "receipts": 17
+    },
+    {
+      "date": "2025-06-26",
+      "revenue": 19735,
+      "discount": 545,
+      "receipts": 18
+    },
+    {
+      "date": "2025-06-28",
+      "revenue": 38985,
+      "discount": 825,
+      "receipts": 32
+    },
+    {
+      "date": "2025-06-29",
+      "revenue": 45005,
+      "discount": 1605,
+      "receipts": 36
+    },
+    {
+      "date": "2025-06-30",
+      "revenue": 24001,
+      "discount": 2239,
+      "receipts": 32
+    },
+    {
+      "date": "2025-07-01",
+      "revenue": 10330,
+      "discount": 250,
+      "receipts": 14
+    },
+    {
+      "date": "2025-07-02",
+      "revenue": 19727,
+      "discount": 733,
+      "receipts": 19
+    },
+    {
+      "date": "2025-07-04",
+      "revenue": 29492,
+      "discount": 3328,
+      "receipts": 18
+    },
+    {
+      "date": "2025-07-05",
+      "revenue": 40993,
+      "discount": 1357,
+      "receipts": 41
+    },
+    {
+      "date": "2025-07-06",
+      "revenue": 60075,
+      "discount": 2045,
+      "receipts": 51
+    },
+    {
+      "date": "2025-07-07",
+      "revenue": 42257,
+      "discount": 1263,
+      "receipts": 45
+    },
+    {
+      "date": "2025-07-09",
+      "revenue": 13269,
+      "discount": 1511,
+      "receipts": 15
+    },
+    {
+      "date": "2025-07-10",
+      "revenue": 29146,
+      "discount": 1504,
+      "receipts": 22
+    },
+    {
+      "date": "2025-07-11",
+      "revenue": 12010,
+      "discount": 890,
+      "receipts": 14
+    },
+    {
+      "date": "2025-07-12",
+      "revenue": 51225,
+      "discount": 1595,
+      "receipts": 46
+    },
+    {
+      "date": "2025-07-13",
+      "revenue": 62105,
+      "discount": 1905,
+      "receipts": 61
+    },
+    {
+      "date": "2025-07-15",
+      "revenue": 25276,
+      "discount": 2314,
+      "receipts": 22
+    },
+    {
+      "date": "2025-07-16",
+      "revenue": 24508,
+      "discount": 4352,
+      "receipts": 32
+    },
+    {
+      "date": "2025-07-18",
+      "revenue": 17903,
+      "discount": 977,
+      "receipts": 21
+    },
+    {
+      "date": "2025-07-19",
+      "revenue": 38972,
+      "discount": 808,
+      "receipts": 32
+    },
+    {
+      "date": "2025-07-20",
+      "revenue": 60724,
+      "discount": 2576,
+      "receipts": 60
+    },
+    {
+      "date": "2025-07-21",
+      "revenue": 17453,
+      "discount": 587,
+      "receipts": 17
+    },
+    {
+      "date": "2025-07-23",
+      "revenue": 14470,
+      "discount": 790,
+      "receipts": 15
+    },
+    {
+      "date": "2025-07-24",
+      "revenue": 18004,
+      "discount": 1346,
+      "receipts": 25
+    },
+    {
+      "date": "2025-07-26",
+      "revenue": 31360,
+      "discount": 970,
+      "receipts": 35
+    },
+    {
+      "date": "2025-07-27",
+      "revenue": 66293,
+      "discount": 1947,
+      "receipts": 49
+    },
+    {
+      "date": "2025-07-28",
+      "revenue": 25360,
+      "discount": 820,
+      "receipts": 26
+    },
+    {
+      "date": "2025-07-29",
+      "revenue": 28572,
+      "discount": 1748,
+      "receipts": 34
+    },
+    {
+      "date": "2025-07-30",
+      "revenue": 18573,
+      "discount": 1247,
+      "receipts": 17
+    },
+    {
+      "date": "2025-07-31",
+      "revenue": 7745,
+      "discount": 545,
+      "receipts": 13
+    },
+    {
+      "date": "2025-08-02",
+      "revenue": 39130,
+      "discount": 1370,
+      "receipts": 33
+    },
+    {
+      "date": "2025-08-03",
+      "revenue": 36782,
+      "discount": 2148,
+      "receipts": 36
+    },
+    {
+      "date": "2025-08-04",
+      "revenue": 27270,
+      "discount": 1820,
+      "receipts": 30
+    },
+    {
+      "date": "2025-08-05",
+      "revenue": 15120,
+      "discount": 1340,
+      "receipts": 20
+    },
+    {
+      "date": "2025-08-06",
+      "revenue": 25219,
+      "discount": 1201,
+      "receipts": 24
+    },
+    {
+      "date": "2025-08-07",
+      "revenue": 27710,
+      "discount": 860,
+      "receipts": 29
+    },
+    {
+      "date": "2025-08-09",
+      "revenue": 44455,
+      "discount": 1585,
+      "receipts": 47
+    },
+    {
+      "date": "2025-08-10",
+      "revenue": 76238,
+      "discount": 1332,
+      "receipts": 72
+    },
+    {
+      "date": "2025-08-12",
+      "revenue": 14516,
+      "discount": 674,
+      "receipts": 20
+    },
+    {
+      "date": "2025-08-13",
+      "revenue": 8967,
+      "discount": 973,
+      "receipts": 13
+    },
+    {
+      "date": "2025-08-14",
+      "revenue": 18810,
+      "discount": 730,
+      "receipts": 17
+    },
+    {
+      "date": "2025-08-15",
+      "revenue": 21370,
+      "discount": 470,
+      "receipts": 21
+    },
+    {
+      "date": "2025-08-16",
+      "revenue": 43540,
+      "discount": 1030,
+      "receipts": 37
+    },
+    {
+      "date": "2025-08-17",
+      "revenue": 70507,
+      "discount": 2303,
+      "receipts": 70
+    },
+    {
+      "date": "2025-08-18",
+      "revenue": 11597,
+      "discount": 883,
+      "receipts": 9
+    },
+    {
+      "date": "2025-08-19",
+      "revenue": 22121,
+      "discount": 1239,
+      "receipts": 20
+    },
+    {
+      "date": "2025-08-20",
+      "revenue": 11990,
+      "discount": 750,
+      "receipts": 12
+    },
+    {
+      "date": "2025-08-21",
+      "revenue": 8640,
+      "discount": 1220,
+      "receipts": 15
+    },
+    {
+      "date": "2025-08-23",
+      "revenue": 44086,
+      "discount": 2014,
+      "receipts": 33
+    },
+    {
+      "date": "2025-08-24",
+      "revenue": 64362,
+      "discount": 2128,
+      "receipts": 65
+    },
+    {
+      "date": "2025-08-25",
+      "revenue": 18618,
+      "discount": 962,
+      "receipts": 18
+    },
+    {
+      "date": "2025-08-27",
+      "revenue": 25182,
+      "discount": 1448,
+      "receipts": 24
+    },
+    {
+      "date": "2025-08-28",
+      "revenue": 11990,
+      "discount": 1030,
+      "receipts": 14
+    },
+    {
+      "date": "2025-08-30",
+      "revenue": 59586,
+      "discount": 1654,
+      "receipts": 53
+    },
+    {
+      "date": "2025-08-31",
+      "revenue": 71502,
+      "discount": 1358,
+      "receipts": 74
+    },
+    {
+      "date": "2025-09-02",
+      "revenue": 29470,
+      "discount": 1070,
+      "receipts": 27
+    },
+    {
+      "date": "2025-09-04",
+      "revenue": 15202,
+      "discount": 1228,
+      "receipts": 14
+    },
+    {
+      "date": "2025-09-05",
+      "revenue": 10260,
+      "discount": 530,
+      "receipts": 10
+    },
+    {
+      "date": "2025-09-06",
+      "revenue": 34140,
+      "discount": 860,
+      "receipts": 28
+    },
+    {
+      "date": "2025-09-07",
+      "revenue": 56209,
+      "discount": 1341,
+      "receipts": 52
+    },
+    {
+      "date": "2025-09-09",
+      "revenue": 15432,
+      "discount": 1028,
+      "receipts": 15
+    },
+    {
+      "date": "2025-09-10",
+      "revenue": 16044,
+      "discount": 676,
+      "receipts": 14
+    },
+    {
+      "date": "2025-09-11",
+      "revenue": 25845,
+      "discount": 1375,
+      "receipts": 31
+    },
+    {
+      "date": "2025-09-13",
+      "revenue": 41420,
+      "discount": 760,
+      "receipts": 39
+    },
+    {
+      "date": "2025-09-14",
+      "revenue": 31430,
+      "discount": 830,
+      "receipts": 38
+    },
+    {
+      "date": "2025-09-15",
+      "revenue": 17539,
+      "discount": 771,
+      "receipts": 22
+    },
+    {
+      "date": "2025-09-16",
+      "revenue": 17075,
+      "discount": 1765,
+      "receipts": 21
+    },
+    {
+      "date": "2025-09-18",
+      "revenue": 9840,
+      "discount": 430,
+      "receipts": 12
+    },
+    {
+      "date": "2025-09-19",
+      "revenue": 10580,
+      "discount": 570,
+      "receipts": 12
+    },
+    {
+      "date": "2025-09-20",
+      "revenue": 45520,
+      "discount": 880,
+      "receipts": 38
+    },
+    {
+      "date": "2025-09-21",
+      "revenue": 48356,
+      "discount": 714,
+      "receipts": 41
+    },
+    {
+      "date": "2025-09-22",
+      "revenue": 28512,
+      "discount": 38,
+      "receipts": 26
+    },
+    {
+      "date": "2025-09-23",
+      "revenue": 20082,
+      "discount": 578,
+      "receipts": 16
+    },
+    {
+      "date": "2025-09-24",
+      "revenue": 41765,
+      "discount": 1845,
+      "receipts": 40
+    },
+    {
+      "date": "2025-09-26",
+      "revenue": 10010,
+      "discount": 0,
+      "receipts": 12
+    },
+    {
+      "date": "2025-09-27",
+      "revenue": 38848,
+      "discount": 1402,
+      "receipts": 34
+    },
+    {
+      "date": "2025-09-28",
+      "revenue": 45072,
+      "discount": 1078,
+      "receipts": 46
+    },
+    {
+      "date": "2025-09-29",
+      "revenue": 57950,
+      "discount": 930,
+      "receipts": 51
+    },
+    {
+      "date": "2025-10-01",
+      "revenue": 16456,
+      "discount": 794,
+      "receipts": 13
+    },
+    {
+      "date": "2025-10-02",
+      "revenue": 13930,
+      "discount": 700,
+      "receipts": 15
+    },
+    {
+      "date": "2025-10-03",
+      "revenue": 10550,
+      "discount": 550,
+      "receipts": 10
+    },
+    {
+      "date": "2025-10-04",
+      "revenue": 55254,
+      "discount": 496,
+      "receipts": 38
+    },
+    {
+      "date": "2025-10-05",
+      "revenue": 30110,
+      "discount": 1680,
+      "receipts": 31
+    },
+    {
+      "date": "2025-10-06",
+      "revenue": 41124,
+      "discount": 886,
+      "receipts": 37
+    },
+    {
+      "date": "2025-10-07",
+      "revenue": 20330,
+      "discount": 560,
+      "receipts": 22
+    },
+    {
+      "date": "2025-10-08",
+      "revenue": 26830,
+      "discount": 1150,
+      "receipts": 23
+    },
+    {
+      "date": "2025-10-10",
+      "revenue": 36970,
+      "discount": 0,
+      "receipts": 41
+    },
+    {
+      "date": "2025-10-11",
+      "revenue": 25980,
+      "discount": 810,
+      "receipts": 29
+    },
+    {
+      "date": "2025-10-12",
+      "revenue": 40280,
+      "discount": 1080,
+      "receipts": 38
+    },
+    {
+      "date": "2025-10-13",
+      "revenue": 21310,
+      "discount": 820,
+      "receipts": 22
+    },
+    {
+      "date": "2025-10-14",
+      "revenue": 9710,
+      "discount": 580,
+      "receipts": 9
+    },
+    {
+      "date": "2025-10-15",
+      "revenue": 31683,
+      "discount": 1427,
+      "receipts": 33
+    },
+    {
+      "date": "2025-10-17",
+      "revenue": 25718,
+      "discount": 572,
+      "receipts": 30
+    },
+    {
+      "date": "2025-10-18",
+      "revenue": 52810,
+      "discount": 0,
+      "receipts": 34
+    },
+    {
+      "date": "2025-10-19",
+      "revenue": 58116,
+      "discount": 904,
+      "receipts": 46
+    },
+    {
+      "date": "2025-10-20",
+      "revenue": 14310,
+      "discount": 810,
+      "receipts": 10
+    },
+    {
+      "date": "2025-10-21",
+      "revenue": 5186,
+      "discount": 904,
+      "receipts": 6
+    },
+    {
+      "date": "2025-10-22",
+      "revenue": 5260,
+      "discount": 880,
+      "receipts": 9
+    },
+    {
+      "date": "2025-10-23",
+      "revenue": 22400,
+      "discount": 530,
+      "receipts": 25
+    },
+    {
+      "date": "2025-10-24",
+      "revenue": 41018,
+      "discount": 1482,
+      "receipts": 39
+    },
+    {
+      "date": "2025-10-25",
+      "revenue": 93050,
+      "discount": 1620,
+      "receipts": 57
+    },
+    {
+      "date": "2025-10-26",
+      "revenue": 120776,
+      "discount": 644,
+      "receipts": 66
+    },
+    {
+      "date": "2025-10-27",
+      "revenue": 53010,
+      "discount": 730,
+      "receipts": 36
+    },
+    {
+      "date": "2025-10-28",
+      "revenue": 20890,
+      "discount": 0,
+      "receipts": 22
+    },
+    {
+      "date": "2025-10-29",
+      "revenue": 11280,
+      "discount": 560,
+      "receipts": 12
+    },
+    {
+      "date": "2025-10-30",
+      "revenue": 23404,
+      "discount": 856,
+      "receipts": 22
+    },
+    {
+      "date": "2025-10-31",
+      "revenue": 32626,
+      "discount": 2774,
+      "receipts": 25
+    },
+    {
+      "date": "2025-11-01",
+      "revenue": 58423,
+      "discount": 2287,
+      "receipts": 53
+    },
+    {
+      "date": "2025-11-02",
+      "revenue": 38968,
+      "discount": 822,
+      "receipts": 36
+    },
+    {
+      "date": "2025-11-03",
+      "revenue": 24028,
+      "discount": 1772,
+      "receipts": 28
+    },
+    {
+      "date": "2025-11-04",
+      "revenue": 3350,
+      "discount": 360,
+      "receipts": 7
+    },
+    {
+      "date": "2025-11-06",
+      "revenue": 17400,
+      "discount": 860,
+      "receipts": 20
+    },
+    {
+      "date": "2025-11-07",
+      "revenue": 15620,
+      "discount": 720,
+      "receipts": 21
+    },
+    {
+      "date": "2025-11-08",
+      "revenue": 36370,
+      "discount": 1080,
+      "receipts": 37
+    },
+    {
+      "date": "2025-11-09",
+      "revenue": 26150,
+      "discount": 850,
+      "receipts": 24
+    },
+    {
+      "date": "2025-11-10",
+      "revenue": 22452,
+      "discount": 1988,
+      "receipts": 32
+    },
+    {
+      "date": "2025-11-12",
+      "revenue": 12456,
+      "discount": 344,
+      "receipts": 8
+    },
+    {
+      "date": "2025-11-13",
+      "revenue": 17168,
+      "discount": 1502,
+      "receipts": 22
+    },
+    {
+      "date": "2025-11-14",
+      "revenue": 21350,
+      "discount": 860,
+      "receipts": 21
+    },
+    {
+      "date": "2025-11-15",
+      "revenue": 61223,
+      "discount": 1807,
+      "receipts": 65
+    },
+    {
+      "date": "2025-11-16",
+      "revenue": 62690,
+      "discount": 900,
+      "receipts": 54
+    },
+    {
+      "date": "2025-11-17",
+      "revenue": 32850,
+      "discount": 730,
+      "receipts": 34
+    },
+    {
+      "date": "2025-11-18",
+      "revenue": 9420,
+      "discount": 900,
+      "receipts": 9
+    },
+    {
+      "date": "2025-11-19",
+      "revenue": 13075,
+      "discount": 895,
+      "receipts": 13
+    },
+    {
+      "date": "2025-11-20",
+      "revenue": 31685,
+      "discount": 1555,
+      "receipts": 36
+    },
+    {
+      "date": "2025-11-22",
+      "revenue": 55924,
+      "discount": 1546,
+      "receipts": 59
+    },
+    {
+      "date": "2025-11-23",
+      "revenue": 33722,
+      "discount": 1158,
+      "receipts": 29
+    },
+    {
+      "date": "2025-11-24",
+      "revenue": 20990,
+      "discount": 800,
+      "receipts": 21
+    },
+    {
+      "date": "2025-11-25",
+      "revenue": 13226,
+      "discount": 694,
+      "receipts": 13
+    },
+    {
+      "date": "2025-11-26",
+      "revenue": 20630,
+      "discount": 600,
+      "receipts": 15
+    },
+    {
+      "date": "2025-11-27",
+      "revenue": 24410,
+      "discount": 880,
+      "receipts": 15
+    },
+    {
+      "date": "2025-11-28",
+      "revenue": 24566,
+      "discount": 674,
+      "receipts": 24
+    },
+    {
+      "date": "2025-11-29",
+      "revenue": 43140,
+      "discount": 1190,
+      "receipts": 32
+    },
+    {
+      "date": "2025-11-30",
+      "revenue": 58840,
+      "discount": 1080,
+      "receipts": 48
+    },
+    {
+      "date": "2025-12-01",
+      "revenue": 17711,
+      "discount": 719,
+      "receipts": 25
+    },
+    {
+      "date": "2025-12-02",
+      "revenue": 8621,
+      "discount": 1319,
+      "receipts": 11
+    },
+    {
+      "date": "2025-12-03",
+      "revenue": 32309,
+      "discount": 1641,
+      "receipts": 30
+    },
+    {
+      "date": "2025-12-05",
+      "revenue": 19622,
+      "discount": 598,
+      "receipts": 17
+    },
+    {
+      "date": "2025-12-06",
+      "revenue": 45296,
+      "discount": 444,
+      "receipts": 37
+    },
+    {
+      "date": "2025-12-07",
+      "revenue": 81846,
+      "discount": 1814,
+      "receipts": 69
+    },
+    {
+      "date": "2025-12-09",
+      "revenue": 11310,
+      "discount": 570,
+      "receipts": 15
+    },
+    {
+      "date": "2025-12-10",
+      "revenue": 16120,
+      "discount": 930,
+      "receipts": 16
+    },
+    {
+      "date": "2025-12-11",
+      "revenue": 18490,
+      "discount": 0,
+      "receipts": 14
+    },
+    {
+      "date": "2025-12-12",
+      "revenue": 7190,
+      "discount": 890,
+      "receipts": 11
+    },
+    {
+      "date": "2025-12-13",
+      "revenue": 41536,
+      "discount": 1374,
+      "receipts": 42
+    },
+    {
+      "date": "2025-12-14",
+      "revenue": 42910,
+      "discount": 730,
+      "receipts": 35
+    },
+    {
+      "date": "2025-12-15",
+      "revenue": 26485,
+      "discount": 525,
+      "receipts": 23
+    },
+    {
+      "date": "2025-12-16",
+      "revenue": 14872,
+      "discount": 628,
+      "receipts": 20
+    },
+    {
+      "date": "2025-12-17",
+      "revenue": 14196,
+      "discount": 1564,
+      "receipts": 16
+    },
+    {
+      "date": "2025-12-18",
+      "revenue": 31845,
+      "discount": 25,
+      "receipts": 25
+    },
+    {
+      "date": "2025-12-19",
+      "revenue": 23560,
+      "discount": 530,
+      "receipts": 23
+    },
+    {
+      "date": "2025-12-20",
+      "revenue": 38822,
+      "discount": 1258,
+      "receipts": 43
+    },
+    {
+      "date": "2025-12-21",
+      "revenue": 48620,
+      "discount": 1060,
+      "receipts": 51
+    },
+    {
+      "date": "2025-12-22",
+      "revenue": 22980,
+      "discount": 300,
+      "receipts": 23
+    },
+    {
+      "date": "2025-12-23",
+      "revenue": 12546,
+      "discount": 1064,
+      "receipts": 18
+    },
+    {
+      "date": "2025-12-24",
+      "revenue": 9150,
+      "discount": 300,
+      "receipts": 11
+    },
+    {
+      "date": "2025-12-25",
+      "revenue": 60133,
+      "discount": 7107,
+      "receipts": 33
+    },
+    {
+      "date": "2025-12-26",
+      "revenue": 20960,
+      "discount": 1140,
+      "receipts": 26
+    },
+    {
+      "date": "2025-12-27",
+      "revenue": 31180,
+      "discount": 1370,
+      "receipts": 33
+    },
+    {
+      "date": "2025-12-28",
+      "revenue": 36890,
+      "discount": 990,
+      "receipts": 38
+    },
+    {
+      "date": "2025-12-29",
+      "revenue": 27692,
+      "discount": 628,
+      "receipts": 33
+    },
+    {
+      "date": "2025-12-30",
+      "revenue": 15516,
+      "discount": 614,
+      "receipts": 15
+    },
+    {
+      "date": "2025-12-31",
+      "revenue": 26222,
+      "discount": 1518,
+      "receipts": 20
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01",
+      "revenue": 738705,
+      "discount": 28799,
+      "receipts": 718,
+      "days": 21
+    },
+    {
+      "month": "2025-02",
+      "revenue": 750112,
+      "discount": 29777,
+      "receipts": 743,
+      "days": 23
+    },
+    {
+      "month": "2025-03",
+      "revenue": 1044700,
+      "discount": 34730,
+      "receipts": 984,
+      "days": 24
+    },
+    {
+      "month": "2025-04",
+      "revenue": 974203,
+      "discount": 36437,
+      "receipts": 883,
+      "days": 23
+    },
+    {
+      "month": "2025-05",
+      "revenue": 955255,
+      "discount": 35725,
+      "receipts": 887,
+      "days": 24
+    },
+    {
+      "month": "2025-06",
+      "revenue": 758204,
+      "discount": 28106,
+      "receipts": 737,
+      "days": 25
+    },
+    {
+      "month": "2025-07",
+      "revenue": 765842,
+      "discount": 37408,
+      "receipts": 744,
+      "days": 25
+    },
+    {
+      "month": "2025-08",
+      "revenue": 819308,
+      "discount": 32522,
+      "receipts": 806,
+      "days": 25
+    },
+    {
+      "month": "2025-09",
+      "revenue": 666601,
+      "discount": 20699,
+      "receipts": 639,
+      "days": 23
+    },
+    {
+      "month": "2025-10",
+      "revenue": 960371,
+      "discount": 24799,
+      "receipts": 800,
+      "days": 29
+    },
+    {
+      "month": "2025-11",
+      "revenue": 800126,
+      "discount": 28854,
+      "receipts": 776,
+      "days": 27
+    },
+    {
+      "month": "2025-12",
+      "revenue": 804630,
+      "discount": 31650,
+      "receipts": 773,
+      "days": 29
+    }
+  ],
+  "category": {
+    "2025-01": [
+      {
+        "name": "經典",
+        "qty": 930,
+        "revenue": 309964
+      },
+      {
+        "name": "配酒小點",
+        "qty": 688,
+        "revenue": 137177
+      },
+      {
+        "name": "啤酒",
+        "qty": 290,
+        "revenue": 29550
+      },
+      {
+        "name": "活動",
+        "qty": 287,
+        "revenue": 24413
+      },
+      {
+        "name": "義大利麵",
+        "qty": 200,
+        "revenue": 49952
+      },
+      {
+        "name": "茶飲",
+        "qty": 167,
+        "revenue": 29299
+      },
+      {
+        "name": "披薩",
+        "qty": 90,
+        "revenue": 31775
+      },
+      {
+        "name": "GIN",
+        "qty": 82,
+        "revenue": 22755
+      },
+      {
+        "name": "無酒精飲品",
+        "qty": 57,
+        "revenue": 10940
+      },
+      {
+        "name": "買二送一",
+        "qty": 47,
+        "revenue": 5850
+      },
+      {
+        "name": "咖啡",
+        "qty": 36,
+        "revenue": 6548
+      },
+      {
+        "name": "SHOT",
+        "qty": 35,
+        "revenue": 11980
+      },
+      {
+        "name": "沙拉點心",
+        "qty": 33,
+        "revenue": 6915
+      },
+      {
+        "name": "西班牙大鍋飯",
+        "qty": 32,
+        "revenue": 14472
+      },
+      {
+        "name": "TEQUILA",
+        "qty": 30,
+        "revenue": 8760
+      },
+      {
+        "name": "WHISKY",
+        "qty": 29,
+        "revenue": 8200
+      },
+      {
+        "name": "VODKA",
+        "qty": 27,
+        "revenue": 7730
+      },
+      {
+        "name": "紅白氣泡酒",
+        "qty": 19,
+        "revenue": 8880
+      },
+      {
+        "name": "RUM",
+        "qty": 8,
+        "revenue": 2355
+      }
+    ],
+    "2025-02": [
+      {
+        "name": "經典",
+        "qty": 948,
+        "revenue": 303505
+      },
+      {
+        "name": "配酒小點",
+        "qty": 699,
+        "revenue": 141042
+      },
+      {
+        "name": "啤酒",
+        "qty": 338,
+        "revenue": 34650
+      },
+      {
+        "name": "活動",
+        "qty": 263,
+        "revenue": 28525
+      },
+      {
+        "name": "義大利麵",
+        "qty": 252,
+        "revenue": 65112
+      },
+      {
+        "name": "茶飲",
+        "qty": 161,
+        "revenue": 28108
+      },
+      {
+        "name": "披薩",
+        "qty": 94,
+        "revenue": 33907
+      },
+      {
+        "name": "無酒精飲品",
+        "qty": 74,
+        "revenue": 14242
+      },
+      {
+        "name": "GIN",
+        "qty": 69,
+        "revenue": 19589
+      },
+      {
+        "name": "買二送一",
+        "qty": 55,
+        "revenue": 5850
+      },
+      {
+        "name": "西班牙大鍋飯",
+        "qty": 53,
+        "revenue": 23904
+      },
+      {
+        "name": "沙拉點心",
+        "qty": 49,
+        "revenue": 9240
+      },
+      {
+        "name": "紅白氣泡酒",
+        "qty": 43,
+        "revenue": 19300
+      },
+      {
+        "name": "咖啡",
+        "qty": 42,
+        "revenue": 7890
+      },
+      {
+        "name": "TEQUILA",
+        "qty": 34,
+        "revenue": 9940
+      },
+      {
+        "name": "VODKA",
+        "qty": 32,
+        "revenue": 9280
+      },
+      {
+        "name": "SHOT",
+        "qty": 22,
+        "revenue": 6550
+      },
+      {
+        "name": "WHISKY",
+        "qty": 17,
+        "revenue": 4540
+      },
+      {
+        "name": "RUM",
+        "qty": 9,
+        "revenue": 2670
+      },
+      {
+        "name": "開瓶費",
+        "qty": 1,
+        "revenue": 500
+      }
+    ],
+    "2025-03": [
+      {
+        "name": "經典",
+        "qty": 1247,
+        "revenue": 392603
+      },
+      {
+        "name": "配酒小點",
+        "qty": 908,
+        "revenue": 179849
+      },
+      {
+        "name": "啤酒",
+        "qty": 418,
+        "revenue": 43500
+      },
+      {
+        "name": "活動",
+        "qty": 357,
+        "revenue": 32165
+      },
+      {
+        "name": "義大利麵",
+        "qty": 309,
+        "revenue": 80229
+      },
+      {
+        "name": "茶飲",
+        "qty": 183,
+        "revenue": 31316
+      },
+      {
+        "name": "披薩",
+        "qty": 153,
+        "revenue": 54198
+      },
+      {
+        "name": "買二送一",
+        "qty": 121,
+        "revenue": 11550
+      },
+      {
+        "name": "無酒精飲品",
+        "qty": 101,
+        "revenue": 19293
+      },
+      {
+        "name": "沙拉點心",
+        "qty": 90,
+        "revenue": 18497
+      },
+      {
+        "name": "GIN",
+        "qty": 78,
+        "revenue": 22683
+      },
+      {
+        "name": "西班牙大鍋飯",
+        "qty": 54,
+        "revenue": 25296
+      },
+      {
+        "name": "紅白氣泡酒",
+        "qty": 51,
+        "revenue": 27200
+      },
+      {
+        "name": "VODKA",
+        "qty": 49,
+        "revenue": 13850
+      },
+      {
+        "name": "咖啡",
+        "qty": 48,
+        "revenue": 8510
+      },
+      {
+        "name": "TEQUILA",
+        "qty": 46,
+        "revenue": 13400
+      },
+      {
+        "name": "SHOT",
+        "qty": 45,
+        "revenue": 16350
+      },
+      {
+        "name": "WHISKY",
+        "qty": 41,
+        "revenue": 10960
+      },
+      {
+        "name": "RUM",
+        "qty": 9,
+        "revenue": 2700
+      }
+    ],
+    "2026-01": [
+      {
+        "name": "經典",
+        "qty": 816,
+        "revenue": 266112
+      },
+      {
+        "name": "配酒小點",
+        "qty": 512,
+        "revenue": 100150
+      },
+      {
+        "name": "啤酒",
+        "qty": 328,
+        "revenue": 33856
+      },
+      {
+        "name": "活動",
+        "qty": 258,
+        "revenue": 19040
+      },
+      {
+        "name": "義大利麵",
+        "qty": 222,
+        "revenue": 58674
+      },
+      {
+        "name": "茶飲",
+        "qty": 133,
+        "revenue": 22436
+      },
+      {
+        "name": "GIN",
+        "qty": 66,
+        "revenue": 18564
+      },
+      {
+        "name": "沙拉點心",
+        "qty": 61,
+        "revenue": 11557
+      },
+      {
+        "name": "披薩",
+        "qty": 52,
+        "revenue": 18444
+      },
+      {
+        "name": "無酒精飲品",
+        "qty": 49,
+        "revenue": 9240
+      },
+      {
+        "name": "西班牙大鍋飯",
+        "qty": 40,
+        "revenue": 17448
+      },
+      {
+        "name": "紅白氣泡酒",
+        "qty": 38,
+        "revenue": 24840
+      },
+      {
+        "name": "WHISKY",
+        "qty": 36,
+        "revenue": 13680
+      },
+      {
+        "name": "買二送一",
+        "qty": 36,
+        "revenue": 3300
+      },
+      {
+        "name": "咖啡",
+        "qty": 26,
+        "revenue": 4700
+      },
+      {
+        "name": "VODKA",
+        "qty": 23,
+        "revenue": 6180
+      },
+      {
+        "name": "TEQUILA",
+        "qty": 20,
+        "revenue": 5800
+      },
+      {
+        "name": "SHOT",
+        "qty": 18,
+        "revenue": 6450
+      },
+      {
+        "name": "RUM",
+        "qty": 6,
+        "revenue": 1800
+      }
+    ],
+    "2026-02": [
+      {
+        "name": "經典",
+        "qty": 717,
+        "revenue": 235902
+      },
+      {
+        "name": "配酒小點",
+        "qty": 469,
+        "revenue": 93496
+      },
+      {
+        "name": "啤酒",
+        "qty": 283,
+        "revenue": 30000
+      },
+      {
+        "name": "活動",
+        "qty": 227,
+        "revenue": 20895
+      },
+      {
+        "name": "義大利麵",
+        "qty": 163,
+        "revenue": 42865
+      },
+      {
+        "name": "茶飲",
+        "qty": 104,
+        "revenue": 17942
+      },
+      {
+        "name": "GIN",
+        "qty": 86,
+        "revenue": 23774
+      },
+      {
+        "name": "買二送一",
+        "qty": 75,
+        "revenue": 6900
+      },
+      {
+        "name": "披薩",
+        "qty": 64,
+        "revenue": 22927
+      },
+      {
+        "name": "沙拉點心",
+        "qty": 48,
+        "revenue": 10405
+      },
+      {
+        "name": "無酒精飲品",
+        "qty": 48,
+        "revenue": 9110
+      },
+      {
+        "name": "WHISKY",
+        "qty": 34,
+        "revenue": 9300
+      },
+      {
+        "name": "西班牙大鍋飯",
+        "qty": 30,
+        "revenue": 13512
+      },
+      {
+        "name": "紅白氣泡酒",
+        "qty": 25,
+        "revenue": 14700
+      },
+      {
+        "name": "TEQUILA",
+        "qty": 25,
+        "revenue": 7160
+      },
+      {
+        "name": "咖啡",
+        "qty": 22,
+        "revenue": 4120
+      },
+      {
+        "name": "SHOT",
+        "qty": 21,
+        "revenue": 6200
+      },
+      {
+        "name": "VODKA",
+        "qty": 18,
+        "revenue": 5300
+      },
+      {
+        "name": "RUM",
+        "qty": 9,
+        "revenue": 2700
+      }
+    ]
+  },
+  "items": {
+    "2025-01": [
+      {
+        "name": "長島冰茶 PLUS",
+        "category": "經典",
+        "price": 447,
+        "qty": 230,
+        "revenue": 102916
+      },
+      {
+        "name": "豪格登",
+        "category": "經典",
+        "price": 278,
+        "qty": 183,
+        "revenue": 50988
+      },
+      {
+        "name": "18天",
+        "category": "啤酒",
+        "price": 150,
+        "qty": 166,
+        "revenue": 24900
+      },
+      {
+        "name": "松露薯條",
+        "category": "配酒小點",
+        "price": 239,
+        "qty": 104,
+        "revenue": 24885
+      },
+      {
+        "name": "炭烤牛肉串",
+        "category": "配酒小點",
+        "price": 254,
+        "qty": 77,
+        "revenue": 19612
+      },
+      {
+        "name": "蒜香薯條",
+        "category": "配酒小點",
+        "price": 187,
+        "qty": 93,
+        "revenue": 17400
+      },
+      {
+        "name": "瑪格莉特披薩",
+        "category": "披薩",
+        "price": 346,
+        "qty": 41,
+        "revenue": 14202
+      },
+      {
+        "name": "金湯尼",
+        "category": "GIN",
+        "price": 261,
+        "qty": 54,
+        "revenue": 14140
+      },
+      {
+        "name": "墨西多",
+        "category": "經典",
+        "price": 299,
+        "qty": 46,
+        "revenue": 13770
+      },
+      {
+        "name": "白酒蛤蠣麵",
+        "category": "義大利麵",
+        "price": 249,
+        "qty": 54,
+        "revenue": 13484
+      },
+      {
+        "name": "桑格利亞(熱)",
+        "category": "經典",
+        "price": 285,
+        "qty": 46,
+        "revenue": 13155
+      },
+      {
+        "name": "西班牙海鮮飯",
+        "category": "西班牙大鍋飯",
+        "price": 464,
+        "qty": 26,
+        "revenue": 12072
+      },
+      {
+        "name": "紐澳良烤雞翅",
+        "category": "配酒小點",
+        "price": 246,
+        "qty": 48,
+        "revenue": 11850
+      },
+      {
+        "name": "培根奶油麵",
+        "category": "義大利麵",
+        "price": 229,
+        "qty": 51,
+        "revenue": 11722
+      },
+      {
+        "name": "Orion",
+        "category": "經典",
+        "price": 158,
+        "qty": 74,
+        "revenue": 11720
+      }
+    ],
+    "2025-02": [
+      {
+        "name": "長島冰茶 PLUS",
+        "category": "經典",
+        "price": 445,
+        "qty": 181,
+        "revenue": 80708
+      },
+      {
+        "name": "豪格登",
+        "category": "經典",
+        "price": 277,
+        "qty": 194,
+        "revenue": 53772
+      },
+      {
+        "name": "18天",
+        "category": "啤酒",
+        "price": 150,
+        "qty": 183,
+        "revenue": 27450
+      },
+      {
+        "name": "長島冰茶 2",
+        "category": "經典",
+        "price": 318,
+        "qty": 72,
+        "revenue": 22944
+      },
+      {
+        "name": "松露薯條",
+        "category": "配酒小點",
+        "price": 217,
+        "qty": 104,
+        "revenue": 22613
+      },
+      {
+        "name": "炭烤牛肉串",
+        "category": "配酒小點",
+        "price": 251,
+        "qty": 75,
+        "revenue": 18830
+      },
+      {
+        "name": "西班牙海鮮飯",
+        "category": "西班牙大鍋飯",
+        "price": 459,
+        "qty": 40,
+        "revenue": 18384
+      },
+      {
+        "name": "白酒蛤蠣麵",
+        "category": "義大利麵",
+        "price": 255,
+        "qty": 68,
+        "revenue": 17388
+      },
+      {
+        "name": "蒜香薯條",
+        "category": "配酒小點",
+        "price": 196,
+        "qty": 86,
+        "revenue": 16929
+      },
+      {
+        "name": "墨西多",
+        "category": "經典",
+        "price": 298,
+        "qty": 56,
+        "revenue": 16740
+      },
+      {
+        "name": "西班牙烘蛋",
+        "category": "配酒小點",
+        "price": 240,
+        "qty": 69,
+        "revenue": 16600
+      },
+      {
+        "name": "培根奶油麵",
+        "category": "義大利麵",
+        "price": 247,
+        "qty": 64,
+        "revenue": 15866
+      },
+      {
+        "name": "Orion",
+        "category": "經典",
+        "price": 159,
+        "qty": 83,
+        "revenue": 13264
+      },
+      {
+        "name": "紐澳良烤雞翅",
+        "category": "配酒小點",
+        "price": 241,
+        "qty": 49,
+        "revenue": 11825
+      },
+      {
+        "name": "瑪格莉特披薩",
+        "category": "披薩",
+        "price": 346,
+        "qty": 34,
+        "revenue": 11777
+      }
+    ],
+    "2025-03": [
+      {
+        "name": "長島冰茶 PLUS",
+        "category": "經典",
+        "price": 448,
+        "qty": 265,
+        "revenue": 118824
+      },
+      {
+        "name": "豪格登",
+        "category": "經典",
+        "price": 279,
+        "qty": 271,
+        "revenue": 75628
+      },
+      {
+        "name": "18天",
+        "category": "啤酒",
+        "price": 150,
+        "qty": 227,
+        "revenue": 34050
+      },
+      {
+        "name": "Orion",
+        "category": "經典",
+        "price": 158,
+        "qty": 189,
+        "revenue": 30048
+      },
+      {
+        "name": "瑪格莉特披薩",
+        "category": "披薩",
+        "price": 347,
+        "qty": 85,
+        "revenue": 29505
+      },
+      {
+        "name": "松露薯條",
+        "category": "配酒小點",
+        "price": 238,
+        "qty": 115,
+        "revenue": 27469
+      },
+      {
+        "name": "炭烤牛肉串",
+        "category": "配酒小點",
+        "price": 265,
+        "qty": 84,
+        "revenue": 22260
+      },
+      {
+        "name": "西班牙海鮮飯",
+        "category": "西班牙大鍋飯",
+        "price": 469,
+        "qty": 45,
+        "revenue": 21120
+      },
+      {
+        "name": "蒜香薯條",
+        "category": "配酒小點",
+        "price": 187,
+        "qty": 112,
+        "revenue": 20955
+      },
+      {
+        "name": "培根奶油麵",
+        "category": "義大利麵",
+        "price": 263,
+        "qty": 78,
+        "revenue": 20522
+      },
+      {
+        "name": "長島冰茶 2",
+        "category": "經典",
+        "price": 317,
+        "qty": 63,
+        "revenue": 20032
+      },
+      {
+        "name": "西班牙烘蛋",
+        "category": "配酒小點",
+        "price": 235,
+        "qty": 84,
+        "revenue": 19812
+      },
+      {
+        "name": "長島冰茶 3",
+        "category": "經典",
+        "price": 350,
+        "qty": 51,
+        "revenue": 17850
+      },
+      {
+        "name": "白酒蛤蠣麵",
+        "category": "義大利麵",
+        "price": 251,
+        "qty": 70,
+        "revenue": 17584
+      },
+      {
+        "name": "松露奶油野菇麵",
+        "category": "義大利麵",
+        "price": 264,
+        "qty": 62,
+        "revenue": 16378
+      }
+    ],
+    "2026-01": [
+      {
+        "name": "長島冰茶 PLUS",
+        "category": "經典",
+        "price": 445,
+        "qty": 203,
+        "revenue": 90473
+      },
+      {
+        "name": "豪格登",
+        "category": "經典",
+        "price": 280,
+        "qty": 160,
+        "revenue": 44800
+      },
+      {
+        "name": "18天",
+        "category": "啤酒",
+        "price": 149,
+        "qty": 180,
+        "revenue": 26956
+      },
+      {
+        "name": "長島冰茶 2",
+        "category": "經典",
+        "price": 320,
+        "qty": 59,
+        "revenue": 18880
+      },
+      {
+        "name": "特調 350",
+        "category": "經典",
+        "price": 345,
+        "qty": 54,
+        "revenue": 18632
+      },
+      {
+        "name": "西班牙海鮮飯",
+        "category": "西班牙大鍋飯",
+        "price": 472,
+        "qty": 33,
+        "revenue": 15600
+      },
+      {
+        "name": "松露薯條",
+        "category": "配酒小點",
+        "price": 236,
+        "qty": 62,
+        "revenue": 14649
+      },
+      {
+        "name": "炭烤牛肉串",
+        "category": "配酒小點",
+        "price": 249,
+        "qty": 57,
+        "revenue": 14224
+      },
+      {
+        "name": "Orion",
+        "category": "經典",
+        "price": 154,
+        "qty": 85,
+        "revenue": 13096
+      },
+      {
+        "name": "松露奶油野菇麵",
+        "category": "義大利麵",
+        "price": 272,
+        "qty": 48,
+        "revenue": 13094
+      },
+      {
+        "name": "白酒蛤蠣麵",
+        "category": "義大利麵",
+        "price": 254,
+        "qty": 51,
+        "revenue": 12956
+      },
+      {
+        "name": "金湯尼",
+        "category": "GIN",
+        "price": 279,
+        "qty": 46,
+        "revenue": 12864
+      },
+      {
+        "name": "培根奶油麵",
+        "category": "義大利麵",
+        "price": 260,
+        "qty": 47,
+        "revenue": 12246
+      },
+      {
+        "name": "蒜香薯條",
+        "category": "配酒小點",
+        "price": 200,
+        "qty": 53,
+        "revenue": 10637
+      },
+      {
+        "name": "茄汁肉醬麵",
+        "category": "義大利麵",
+        "price": 272,
+        "qty": 39,
+        "revenue": 10636
+      }
+    ]
+  }
+}
